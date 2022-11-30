@@ -10,6 +10,7 @@ public class Demo {
 		System.out.println("Add"+ a + b);        //str+int+int so it concates
 		System.out.println("Add"+ (a + b));      //now a and b is added
 		System.out.println(a+b);
+		System.out.println("Hello");
 	}
 
 }
